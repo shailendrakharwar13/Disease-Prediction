@@ -45,8 +45,9 @@ Confusion Matrix:
  [ 5 45]]
 
 
-                  Performance of the model
+                  
 
-Model	               Training Accuracy %	       Testing Accuracy %
-Logistic Regression	         86.79	                     86.81
+Model	             Training Accuracy %	    Testing Accuracy %
+Logistic Regression	          86.79	                     86.81
 
+            Performance of the model
