@@ -4,7 +4,6 @@ Predicting and diagnosing heart disease is the biggest challenge in the medical 
 
 Factors that influence heart disease are body cholesterol levels, smoking habit and obesity, family history of illnesses, blood pressure, and work environment. Machine learning algorithms play an essential and precise role in the prediction of heart disease.
 
-Train the machine learning model and print the classification report of our logistic regression model:
 
 
 [
@@ -47,7 +46,8 @@ Confusion Matrix:
 
                   
 
-Model	             Training Accuracy %	    Testing Accuracy %
-Logistic Regression	          86.79	                     86.81
+Model	             :   Logistic Regression	   
+Training Accuracy %	:  86.79	     
+Testing Accuracy %Logistic Regression :  86.81
 
             Performance of the model
