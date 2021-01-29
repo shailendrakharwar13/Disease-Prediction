@@ -44,10 +44,10 @@ Confusion Matrix:
  [ 5 45]]
 
  
-             performance of the model                 
+      performance of the model                 
 
 Model	             :   Logistic Regression	   
 Training Accuracy %	:  86.79	     
-Testing Accuracy %Logistic Regression :  86.81
+Testing Accuracyession :  86.81
 
           
