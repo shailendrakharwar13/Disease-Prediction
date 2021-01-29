@@ -11,7 +11,7 @@ Train the machine learning model and print the classification report of our logi
 ![1-heart-plot-4](https://user-images.githubusercontent.com/51224796/106292483-df796200-6272-11eb-8bf7-cb217686b50a.png)
 ](url)
 
-  The Correlation matrix of the model
+                             The Correlation matrix of the model
 
 
 Train Result:
@@ -45,8 +45,8 @@ Confusion Matrix:
  [ 5 45]]
 
 
-Performance of the model
+                  Performance of the model
 
-Model	             Training Accuracy %	    Testing Accuracy %
-Logistic Regression	          86.79	                     86.81
+Model	               Training Accuracy %	       Testing Accuracy %
+Logistic Regression	         86.79	                     86.81
 
