@@ -7,6 +7,12 @@ Factors that influence heart disease are body cholesterol levels, smoking habit 
 Train the machine learning model and print the classification report of our logistic regression model:
 
 
+[
+![1-heart-plot-4](https://user-images.githubusercontent.com/51224796/106292483-df796200-6272-11eb-8bf7-cb217686b50a.png)
+](url)
+
+  The Correlation matrix of the model
+
 
 Train Result:
 ================================================
